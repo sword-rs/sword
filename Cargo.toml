@@ -1,0 +1,11 @@
+[package]
+name = "sword"
+version = "0.0.0"
+authors = ["silentdoer <1010993610@qq.com>"]
+edition = "2018"
+license = "MIT"
+description = "sword framework."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
